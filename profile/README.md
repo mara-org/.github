@@ -5,11 +5,6 @@ Empowering people to understand and improve their health — intelligently, priv
 ## 🌐 Website
 [www.iammara.com](https://www.iammara.com)
 
-## 🧠 Projects
-- **Mara Doctor** — multilingual AI doctor that answers your medical questions.
-- **Mara Mirror** — offline health mirror powered by Raspberry Pi and facial analysis.
-- **Mara API** — FastAPI backend for all Mara apps.
-
 ## 👥 Team
 Built with ❤️ by Abdulaziz Alkhlaiwe & Omar Al Sumih  
 Saudi Arabia 🇸🇦
