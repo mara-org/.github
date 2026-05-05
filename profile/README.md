@@ -14,5 +14,4 @@ Mara is officially registered via the Saudi Business Center
 
 D-U-N-S: 986467776
 
-Ad Diriyah 13714, Saudi Arabia
 [Ad Diriyah 13714, Saudi Arabia](https://www.google.com/maps/place/%D9%85%D8%B1%D9%83%D8%B2+%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+-+%D9%85%D9%86%D8%B4%D8%A2%D8%AA%E2%80%AD/@24.7675625,46.5777571,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2ee1e02d70d4cf:0xb5cba10efda8f56c!8m2!3d24.7675625!4d46.5751875!16s%2Fg%2F11lzhbt4cs?entry=tts&g_ep=EgoyMDI2MDIxMS4wIPu8ASoASAFQAw%3D%3D&skid=902ea5f1-9c07-4095-bd62-5643641633ca)
