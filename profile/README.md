@@ -1,14 +1,17 @@
-# 🩵 Mara | مَرَا
-Your personal AI health companion 🌿  
-Empowering people to understand and improve their health — intelligently, privately, and beautifully.
+# Mara Company | شركة مرا
 
-## 🌐 Website
-[www.iammara.com](https://www.iammara.com)
+Mara is a Saudi technology company building many products and open-source tools.
 
-## 👥 Team
-Built with ❤️ by Abdulaziz Alkhlaiwe & Omar Al Sumih  
-Saudi Arabia 🇸🇦
+Among our products:
+- [iammara.com](https://iammara.com)
+- [printer-olive.vercel.app](https://printer-olive.vercel.app)
 
-## 📫 Contact
-Email: contact@iammara.com  
-LinkedIn: [Mara Company](https://www.linkedin.com/company/yourmara)
+We publish and maintain several open-source tools and utilities in various domains.
+
+© Mara liltaqniyat alhadithah alraqimiah Company
+
+Mara is officially registered via the Saudi Business Center
+
+D-U-N-S: 986467776
+
+Ad Diriyah 13714, Saudi Arabia
