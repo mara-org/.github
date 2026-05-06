@@ -8,6 +8,10 @@ Among our products:
 
 We publish and maintain several open-source tools and utilities in various domains.
 
+Our public repositories use shared community defaults for issues, pull requests, security reports,
+support, contribution guidelines, and conduct. Project-specific repositories can override those
+defaults when they need stricter rules.
+
 © Mara liltaqniyat alhadithah alraqimiah Company
 
 Mara is officially registered via the Saudi Business Center
