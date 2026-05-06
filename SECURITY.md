@@ -5,7 +5,7 @@ problems, or anything that could put users, customers, or infrastructure at risk
 
 ## Reporting
 
-Email `contact@iammara.com` with:
+Email `security@iammara.com` with:
 
 - The affected repository and commit, tag, or deployed URL.
 - A clear description of the issue.
