@@ -14,7 +14,7 @@ defaults when they need stricter rules.
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hVxvU4ekhJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamurmara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yourmara/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamurmara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamurmara) [![X for Devs](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MaraDevs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@iammara.com)
 
-© Mara liltaqniyat alhadithah alraqimiah Company
+© Mara liltaqniyat alhadithah alraqimiah Company | شركة مرا للتقنيات الحديثة الرقمية ©
 
 Mara is officially registered via the Saudi Business Center
 
