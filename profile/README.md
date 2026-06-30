@@ -4,7 +4,7 @@ Mara is a Saudi technology company building many products and open-source tools.
 
 Among our products:
 - [iammara.com](https://iammara.com)
-- [Echo: Memory Journal](https://apps.apple.com/us/app/echo-memory-journal/id6775021634)
+- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
 - [printer-olive.vercel.app](https://printer-olive.vercel.app)
 
 We publish and maintain several open-source tools and utilities in various domains.
