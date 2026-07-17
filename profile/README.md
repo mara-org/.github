@@ -6,6 +6,7 @@ Among our products:
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
 - [Mara](https://iammara.com) - Soon
 - [DocMara](https://dev.iammara.com/apps/Docmara/) - Soon
+- [Aghoo](https://dev.iammara.com/apps/aghoo/) - Soon
 - [dalil](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
 - [awal](https://dev.iammara.com/tools/awal/) : A local README truth checker for fresh-clone developer onboarding.
 - [inbox-report](https://dev.iammara.com/tools/inbox-report/) : Turn local mailbox exports into job, COOP, and application reports.
