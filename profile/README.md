@@ -3,8 +3,9 @@
 Mara is a Saudi technology company building many products and open-source tools.
 
 Among our products:
-- [iammara.com](https://iammara.com)
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
+- [Mara](https://iammara.com) - Soon
+- [DocMara](https://dev.iammara.com/apps/Docmara/) - Soon
 
 We publish and maintain several open-source tools and utilities in various domains.
 
