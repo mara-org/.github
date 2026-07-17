@@ -7,11 +7,11 @@ Among our products:
 - [Mara](https://iammara.com) - Soon
 - [DocMara](https://dev.iammara.com/apps/Docmara/) - Soon
 - [dalil](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
-- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
-- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
-- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
-- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
-
+- [awal](https://dev.iammara.com/tools/awal/) : A local README truth checker for fresh-clone developer onboarding.
+- [inbox-report](https://dev.iammara.com/tools/inbox-report/) : Turn local mailbox exports into job, COOP, and application reports.
+- [faseeh](https://dev.iammara.com/tools/faseeh/) : Arabic and RTL release QA for web interfaces.
+- [bayanatak](https://dev.iammara.com/tools/bayanatak/) : Saudi-flavored fake test data for local product development.
+- mara-release-autopsyp
 
 We publish and maintain several open-source tools and utilities in various domains.
 
