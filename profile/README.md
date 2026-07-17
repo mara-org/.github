@@ -9,10 +9,11 @@ Among our products:
 - [Aghoo](https://dev.iammara.com/apps/aghoo/) - Soon
 - [dalil](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
 - [awal](https://dev.iammara.com/tools/awal/) : A local README truth checker for fresh-clone developer onboarding.
-- [inbox-report](https://dev.iammara.com/tools/inbox-report/) : Turn local mailbox exports into job, COOP, and application reports.
+- [inbox report](https://dev.iammara.com/tools/inbox-report/) : Turn local mailbox exports into job, COOP, and application reports.
 - [faseeh](https://dev.iammara.com/tools/faseeh/) : Arabic and RTL release QA for web interfaces.
 - [bayanatak](https://dev.iammara.com/tools/bayanatak/) : Saudi-flavored fake test data for local product development.
-- mara-release-autopsyp
+- mara release autopsyp
+- lockstep skill : Skill and rule pack for scoped AI coding agent changes
 
 We publish and maintain several open-source tools and utilities in various domains.
 
