@@ -3,7 +3,7 @@
 Mara is a Saudi technology company building many products and open-source tools.
 
 Among our products:
-- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
+- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634) : Your camera roll stores photos. Echo preserves the stories behind them.
 - [Mara](https://iammara.com) - Soon
 - [DocMara](https://dev.iammara.com/apps/Docmara/) - Soon
 - [Aghoo](https://dev.iammara.com/apps/aghoo/) - Soon
