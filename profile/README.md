@@ -6,7 +6,7 @@ Among our products:
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
 - [Mara](https://iammara.com) - Soon
 - [DocMara](https://dev.iammara.com/apps/Docmara/) - Soon
-- [dalil]([https://apps.apple.com/app/echo-photo-memory-journal/id6775021634](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
+- [dalil](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634)
