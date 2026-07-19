@@ -12,8 +12,8 @@ Among our products:
 - [inbox report](https://dev.iammara.com/tools/inbox-report/) : Turn local mailbox exports into job, COOP, and application reports.
 - [faseeh](https://dev.iammara.com/tools/faseeh/) : Arabic and RTL release QA for web interfaces.
 - [bayanatak](https://dev.iammara.com/tools/bayanatak/) : Saudi-flavored fake test data for local product development.
-- mara release autopsyp
-- lockstep skill : Skill and rule pack for scoped AI coding agent changes
+- [mara release autopsyp](https://dev.iammara.com/tools/mara-release-autopsy/) : A local CLI that compares Health history ( for ex , from Apple health ) with Git release windows.
+- [lockstep skill](https://dev.iammara.com/tools/lockstep-skill/) : local skill pack that keeps AI coding agents inside an approved change scope.
 
 We publish and maintain several open-source tools and utilities in various domains.
 
