@@ -5,7 +5,7 @@ Mara is a Saudi technology company building many products and open-source tools.
 Among our products:
 - [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634) : Your camera roll stores photos. Echo preserves the stories behind them.
 - [Mara](https://iammara.com) - Soon
-- [DocMara](https://dev.iammara.com/apps/Docmara/) - Soon
+- [DocMara](https://apps.apple.com/app/docmara/id6780952627) : private, bilingual file and photo toolkit for iPhone. Convert, compress, scan, edit, secure, and organize documents in one focused app.
 - [Aghoo](https://dev.iammara.com/apps/aghoo/) - Soon
 - [dalil](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
 - [awal](https://dev.iammara.com/tools/awal/) : A local README truth checker for fresh-clone developer onboarding.
