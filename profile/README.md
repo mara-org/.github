@@ -21,7 +21,7 @@ Our public tools focus on local-first workflows, release quality, Arabic and RTL
 - [Mara Tools](https://dev.iammara.com/tools/) — our open-source tool collection.
 - [Mara Links](https://dev.iammara.com/mara-links/) — every official Mara destination in one place.
 
-Featured tools include [dalil](https://dev.iammara.com/tools/dalil/), [awal](https://dev.iammara.com/tools/awal/), [faseeh](https://dev.iammara.com/tools/faseeh/), [bayanatak](https://dev.iammara.com/tools/bayanatak/), [inbox-report](https://dev.iammara.com/tools/inbox-report/), [mara-release-autopsy](https://dev.iammara.com/tools/mara-release-autopsy/), and [lockstep-skill](https://dev.iammara.com/tools/lockstep-skill/).
+Featured tools include [dalil](https://github.com/mara-org/dalil), [awal](https://github.com/mara-org/awal), [faseeh](https://github.com/mara-org/faseeh), [bayanatak](https://github.com/mara-org/bayanatak), [inbox-report](https://github.com/mara-org/inbox-report), [lockstep-skill](https://github.com/mara-org/lockstep-skill), [mara-release-autopsy](https://github.com/mara-org/mara-release-autopsy), and [mawid](https://github.com/mara-org/mawid).
 
 ## Join the community | انضم للمجتمع
 
