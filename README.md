@@ -1,31 +1,22 @@
-# Mara Company | شركة مرا
+# Mara GitHub community files
 
-Mara is a Saudi technology company building many products and open-source tools.
+This repository provides the shared community health files and public organization profile for [Mara](https://github.com/mara-org).
 
-Among our products:
-- [iammara.com](https://iammara.com)
-- [printer-olive.vercel.app](https://printer-olive.vercel.app)
+## Official destinations
 
-We publish and maintain several open-source tools and utilities in various domains.
+- [Mara website](https://iammara.com/lang/en/)
+- [Developer portal](https://dev.iammara.com/)
+- [Open-source tools](https://dev.iammara.com/tools/)
+- [Mara Community on Discord](https://discord.gg/j7pastrgTf)
+- [All Mara links](https://dev.iammara.com/mara-links/)
 
-## Public Repository Defaults
+## Public repository defaults
 
-This repository provides default community health files for Mara public repositories that do not
-define their own:
+Public Mara repositories inherit these files unless a repository defines its own stricter version:
 
 - Issue templates for bugs, feature requests, and documentation fixes.
 - Pull request template with validation and privacy checks.
-- Contributing guide.
-- Security reporting policy.
-- Support policy.
-- Code of conduct.
+- Contribution guide, security reporting policy, support policy, and code of conduct.
 
-Individual repositories can override these files when they need project-specific rules.
-
-© Mara liltaqniyat alhadithah alraqimiah Company
-
-Mara is officially registered via the Saudi Business Center
-
-D-U-N-S: 986467776
-
-Ad Diriyah 13714, Saudi Arabia
+Mara liltaqniyat alhadithah alraqimiah Company | شركة مرا للتقنيات الحديثة الرقمية<br>
+Saudi Business Center · D-U-N-S: 986467776 · Ad Diriyah 13714, Saudi Arabia

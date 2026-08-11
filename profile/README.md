@@ -1,30 +1,50 @@
-# Mara Company | شركة مرا
+# Mara | مرا
 
-Mara is a Saudi technology company building many products and open-source tools.
+Mara is a Saudi technology company building thoughtful consumer apps and practical open-source tools.
 
-Among our products:
-- [Echo: Memory Journal](https://apps.apple.com/app/echo-photo-memory-journal/id6775021634) : Your camera roll stores photos. Echo preserves the stories behind them.
-- [Mara](https://iammara.com) - Soon
-- [DocMara](https://apps.apple.com/app/docmara/id6780952627) : private, bilingual file and photo toolkit for iPhone. Convert, compress, scan, edit, secure, and organize documents in one focused app.
-- [Aghoo](https://dev.iammara.com/apps/aghoo/) - Soon
-- [dalil](https://dev.iammara.com/tools/dalil/) : A local CLI that turns student projects into proof for CVs, GitHub, and posts.
-- [awal](https://dev.iammara.com/tools/awal/) : A local README truth checker for fresh-clone developer onboarding.
-- [inbox report](https://dev.iammara.com/tools/inbox-report/) : Turn local mailbox exports into job, COOP, and application reports.
-- [faseeh](https://dev.iammara.com/tools/faseeh/) : Arabic and RTL release QA for web interfaces.
-- [bayanatak](https://dev.iammara.com/tools/bayanatak/) : Saudi-flavored fake test data for local product development.
-- [mara release autopsyp](https://dev.iammara.com/tools/mara-release-autopsy/) : A local CLI that compares Health history ( for ex , from Apple health ) with Git release windows.
-- [lockstep skill](https://dev.iammara.com/tools/lockstep-skill/) : local skill pack that keeps AI coding agents inside an approved change scope.
+شركة تقنية سعودية نبني تطبيقات مفيدة وأدوات مفتوحة المصدر بعناية، من المملكة إلى العالم.
 
-We publish and maintain several open-source tools and utilities in various domains.
+## Our apps | تطبيقاتنا
 
-Our public repositories use shared community defaults for issues, pull requests, security reports,
-support, contribution guidelines, and conduct. Project-specific repositories can override those
-defaults when they need stricter rules.
+| App | What it does | Download |
+| --- | --- | --- |
+| **Echo** | A quiet, private place for photo memories. | [App Store](https://apps.apple.com/us/app/echo-photo-memory-journal/id6775021634) |
+| **Mara** | A personal companion for becoming a better you. | [Product site](https://iammara.com/lang/en/) |
+| **DocMara** | A private, bilingual document and photo toolkit for iPhone. | [App Store](https://apps.apple.com/us/app/docmara/id6780952627) |
+| **Aghoo** | A baby cry translator designed to help parents understand the moment. | [Product page](https://dev.iammara.com/apps/aghoo/) |
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/j7pastrgTf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamurmara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yourmara/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamurmara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamurmara) [![X for Devs](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MaraDevs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@iammara.com)
+## Build with us | ابنِ معنا
 
-© Mara liltaqniyat alhadithah alraqimiah Company | شركة مرا للتقنيات الحديثة الرقمية ©
+Our public tools focus on local-first workflows, release quality, Arabic and RTL support, and practical developer productivity.
 
-Mara is officially registered via the Saudi Business Center
+- [Developer portal](https://dev.iammara.com/) — documentation, products, and engineering resources.
+- [Mara Tools](https://dev.iammara.com/tools/) — our open-source tool collection.
+- [Mara Links](https://dev.iammara.com/mara-links/) — every official Mara destination in one place.
 
-[Ad Diriyah 13714, Saudi Arabia](https://www.google.com/maps/place/%D9%85%D8%B1%D9%83%D8%B2+%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+-+%D9%85%D9%86%D8%B4%D8%A2%D8%AA%E2%80%AD/@24.7675625,46.5777571,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2ee1e02d70d4cf:0xb5cba10efda8f56c!8m2!3d24.7675625!4d46.5751875!16s%2Fg%2F11lzhbt4cs?entry=tts&g_ep=EgoyMDI2MDIxMS4wIPu8ASoASAFQAw%3D%3D&skid=902ea5f1-9c07-4095-bd62-5643641633ca)
+Featured tools include [dalil](https://dev.iammara.com/tools/dalil/), [awal](https://dev.iammara.com/tools/awal/), [faseeh](https://dev.iammara.com/tools/faseeh/), [bayanatak](https://dev.iammara.com/tools/bayanatak/), [inbox-report](https://dev.iammara.com/tools/inbox-report/), [mara-release-autopsy](https://dev.iammara.com/tools/mara-release-autopsy/), and [lockstep-skill](https://dev.iammara.com/tools/lockstep-skill/).
+
+## Join the community | انضم للمجتمع
+
+Meet users and builders, share what you are creating, get product help, and follow release updates in the bilingual Mara Community.
+
+[![Join Mara Community on Discord](https://img.shields.io/badge/Join_Mara_Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/j7pastrgTf)
+[![Mara Links](https://img.shields.io/badge/All_Mara_Links-111827)](https://dev.iammara.com/mara-links/)
+[![Website](https://img.shields.io/badge/Website-22C55E)](https://iammara.com/lang/en/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/iamurmara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yourmara/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@iamurmara)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/iamurmara)
+[![X for Developers](https://img.shields.io/badge/X_for_Devs-000000?logo=x&logoColor=white)](https://x.com/MaraDevs)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@iamurmara)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBvq5D9cDDgD72drm23)
+
+## Contact | تواصل معنا
+
+- Product help: [support@iammara.com](mailto:support@iammara.com)
+- Business and partnerships: [contact@iammara.com](mailto:contact@iammara.com)
+- Privacy: [dpo@iammara.com](mailto:dpo@iammara.com)
+- Security: [security@iammara.com](mailto:security@iammara.com)
+
+Mara liltaqniyat alhadithah alraqimiah Company | شركة مرا للتقنيات الحديثة الرقمية<br>
+Saudi Business Center · D-U-N-S: 986467776 · [Ad Diriyah 13714, Saudi Arabia](https://www.google.com/maps/place/%D9%85%D8%B1%D9%83%D8%B2+%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+-+%D9%85%D9%86%D8%B4%D8%A2%D8%AA%E2%80%AD/@24.7675625,46.5777571,17z)
