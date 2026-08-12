@@ -9,7 +9,7 @@ Mara is a Saudi technology company building thoughtful consumer apps and practic
 | App | What it does | Download |
 | --- | --- | --- |
 | **Echo** | A quiet, private place for photo memories. | [App Store](https://apps.apple.com/us/app/echo-photo-memory-journal/id6775021634) |
-| **Mara** | A personal companion for becoming a better you. | [Product site](https://iammara.com/lang/en/) |
+| **Mara** | A personal companion for becoming a better you. | [Product site](https://iammara.com/apps/mara/) |
 | **DocMara** | A private, bilingual document and photo toolkit for iPhone. | [App Store](https://apps.apple.com/us/app/docmara/id6780952627) |
 | **Aghoo** | A baby cry translator designed to help parents understand the moment. | [Product page](https://dev.iammara.com/apps/aghoo/) |
 
