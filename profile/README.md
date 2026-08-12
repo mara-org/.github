@@ -29,7 +29,7 @@ Meet users and builders, share what you are creating, get product help, and foll
 
 [![Join Mara Community on Discord](https://img.shields.io/badge/Join_Mara_Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/j7pastrgTf)
 [![Mara Links](https://img.shields.io/badge/All_Mara_Links-111827)](https://dev.iammara.com/mara-links/)
-[![Website](https://img.shields.io/badge/Website-22C55E)](https://iammara.com/lang/en/)
+[![Website](https://img.shields.io/badge/Website-22C55E)](https://iammara.com/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/iamurmara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yourmara/)
