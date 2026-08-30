@@ -8,18 +8,17 @@ Mara is a Saudi technology company building thoughtful consumer apps and practic
 
 | App | What it does | Download |
 | --- | --- | --- |
-| **Echo** | A quiet, private place for photo memories. | [App Store](https://apps.apple.com/us/app/echo-photo-memory-journal/id6775021634) |
+| **Echo** | A quiet, private place for photo memories. | [Product site](https://iammara.com/apps/echo) |
 | **Mara** | A personal companion for becoming a better you. | [Product site](https://iammara.com/apps/mara/) |
-| **DocMara** | A private, bilingual document and photo toolkit for iPhone. | [App Store](https://apps.apple.com/us/app/docmara/id6780952627) |
-| **Aghoo** | A baby cry translator designed to help parents understand the moment. | [Product page](https://dev.iammara.com/apps/aghoo/) |
+| **DocMara** | A private, bilingual document and photo toolkit for iPhone. | [Product site](https://iammara.com/apps/Docmara/) |
+| **Aghoo** | A baby cry translator designed to help parents understand the moment. | [Product site](https://iammara.com/apps/aghoo/) |
 
 ## Build with us | ابنِ معنا
 
 Our public tools focus on local-first workflows, release quality, Arabic and RTL support, and practical developer productivity.
 
-- [Developer portal](https://dev.iammara.com/) — documentation, products, and engineering resources.
-- [Mara Tools](https://dev.iammara.com/tools/) — our open-source tool collection.
-- [Mara Links](https://dev.iammara.com/mara-links/) — every official Mara destination in one place.
+- [Mara Tools](https://iammara.com/tools/) — our open-source tool collection.
+- [Mara Links](https://iammara.com/mara-links/) — every official Mara destination in one place.
 
 Featured tools include [dalil](https://github.com/mara-org/dalil), [awal](https://github.com/mara-org/awal), [faseeh](https://github.com/mara-org/faseeh), [bayanatak](https://github.com/mara-org/bayanatak), [inbox-report](https://github.com/mara-org/inbox-report), [lockstep-skill](https://github.com/mara-org/lockstep-skill), [mara-release-autopsy](https://github.com/mara-org/mara-release-autopsy), and [mawid](https://github.com/mara-org/mawid).
 
