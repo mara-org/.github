@@ -1,8 +1,7 @@
-# Mara | مرا
+# Mara
 
 Mara is a Saudi technology company building thoughtful consumer apps and practical open-source tools.
 
-شركة تقنية سعودية نبني تطبيقات مفيدة وأدوات مفتوحة المصدر بعناية، من المملكة إلى العالم.
 
 ## Our apps | تطبيقاتنا
 
@@ -13,7 +12,7 @@ Mara is a Saudi technology company building thoughtful consumer apps and practic
 | **DocMara** | A private, bilingual document and photo toolkit for iPhone. | [Product site](https://iammara.com/apps/Docmara/) |
 | **Aghoo** | A baby cry translator designed to help parents understand the moment. | [Product site](https://iammara.com/apps/aghoo/) |
 
-## Build with us | ابنِ معنا
+## Build with us  
 
 Our public tools focus on local-first workflows, release quality, Arabic and RTL support, and practical developer productivity.
 
@@ -22,7 +21,7 @@ Our public tools focus on local-first workflows, release quality, Arabic and RTL
 
 Featured tools include [dalil](https://github.com/mara-org/dalil), [awal](https://github.com/mara-org/awal), [faseeh](https://github.com/mara-org/faseeh), [bayanatak](https://github.com/mara-org/bayanatak), [inbox-report](https://github.com/mara-org/inbox-report), [lockstep-skill](https://github.com/mara-org/lockstep-skill), [mara-release-autopsy](https://github.com/mara-org/mara-release-autopsy), and [mawid](https://github.com/mara-org/mawid).
 
-## Join the community | انضم للمجتمع
+## Join the community 
 
 Meet users and builders, share what you are creating, get product help, and follow release updates in the bilingual Mara Community.
 
@@ -38,7 +37,7 @@ Meet users and builders, share what you are creating, get product help, and foll
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@iamurmara)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBvq5D9cDDgD72drm23)
 
-## Contact | تواصل معنا
+## Contact
 
 - Product help: [support@iammara.com](mailto:support@iammara.com)
 - Business and partnerships: [contact@iammara.com](mailto:contact@iammara.com)
