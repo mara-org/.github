@@ -3,7 +3,7 @@
 Mara is a Saudi technology company building thoughtful consumer apps and practical open-source tools.
 
 
-## Our apps | تطبيقاتنا
+## Our apps
 
 | App | What it does | Download |
 | --- | --- | --- |
